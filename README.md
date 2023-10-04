@@ -3,13 +3,11 @@
 <h1 align="center">👋, I'm Kritika Shaw</h1>
 <h3 align="center">Aspiring DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Python , Docker , Terraform**
-- 📫 How to reach me **shawkritika2@gmail.com**
+- I’m currently learning **DevOps** 🌱
+- Ask me about **Python , Docker , Terraform** 💬
+- How to reach me [Email](mailto:trainwithshubham@gmail.com) 💌
+- Follow me on [Instagram](https://www.instagram.com/kritikashawww/) ✨ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kritika257&label=Profile%20views&color=0e75b6&style=flat" alt="Kritika257" /> </p>
-
- <h3 align="left">Connect with me:</h3>
  <h5><font size="+1" face="Tahoma">Social:</font></h5>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/kritikashaw) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]([https://agileguru.github.io/](https://github.com/Kritika257))
@@ -35,6 +33,9 @@
 
 <h6><font size="+1" face="Tahoma">Other Tools:</font></h6>
 <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kritika257&label=Profile%20views&color=0e75b6&style=flat" alt="Kritika257" /> </p>
 
 <!--
 **Kritika257/Kritika257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
