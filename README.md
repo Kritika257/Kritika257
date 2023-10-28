@@ -5,8 +5,9 @@
 
 - I’m currently learning **DevOps** 🌱
 - Ask me about **Python , Docker , Terraform** 💬
-- How to reach me [Email](mailto:trainwithshubham@gmail.com) 💌
+- How to reach me [Email](mailto:trainwithshubham@gmail.com/) 💌
 - Follow me on [Instagram](https://www.instagram.com/kritikashawww/) ✨
+- Follow me on [Hashnode](https://hashnode.com/@kritikashaw/) 🌐 
 - ⚡⚡⚡ Fact **"Remember,,, Why you started."** ⚡⚡⚡
 
  <h5><font size="+1" face="Tahoma">Social:</font></h5>
