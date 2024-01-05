@@ -7,20 +7,7 @@
 <h3 align="center">Aspiring Engineer</h3>
 
 - I’m currently learning 🌱
-- 📫 How to reach me:[Email](mailto:shawkritika2@gmail.com/) 💌
 - ⚡⚡⚡ Fact **"Remember,,, Why you started."** ⚡⚡⚡
-
- <h5><font size="+1" face="Tahoma">Social:</font></h5>
-
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-kritikashaw-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritikashaw/)
-[![medium badge](https://img.shields.io/badge/Hashnode-kritikashaw-%230177B5?style=flat&logo=medium)](https://hashnode.com/@kritikashaw/)
-[![Instagram badge](https://img.shields.io/badge/Instagram-@kritikashawww-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/kritikashawww/)
-
-
-<a href="https://github.com/Kritika257">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
-</a>
-</div>
 
 
  <!-- Languages and Tools Section -->
@@ -48,10 +35,21 @@
   </a>
  
 <h6><font size="+1" face="Tahoma">Other Tools:</font></h6>
- <a href="https://www.linux.org/" target="_blanfalse" /> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="40" /> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="40" /> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+ <a href="https://www.linux.org/" target="_blanfalse" /> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="40" /> </a> <a href="https://www.docker.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"  height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="40" /> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" > <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="80" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kritika257&show_icons=true&locale=en&layout=compact" alt="Kritika257" /></p>
+
+   
+ <h5><font size="+1" face="Tahoma">Let's Connect:</font></h5>
+
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-kritikashaw-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritikashaw/)
+[![medium badge](https://img.shields.io/badge/Hashnode-kritikashaw-%230177B5?style=flat&logo=medium)](https://hashnode.com/@kritikashaw/)
+[![Instagram badge](https://img.shields.io/badge/Instagram-@kritikashawww-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/kritikashawww/)
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kritika257&label=Profile%20views&color=0e75b6&style=flat" alt="Kritika257" /> </p>
+
+
 
 
 <!--
@@ -67,4 +65,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://github.com/Kritika257">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
 -->
