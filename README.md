@@ -1,21 +1,22 @@
-### Hi there 👋
+<p align="center">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
+</p>
 
-<h1 align="center">👋, I'm Kritika Shaw</h1>
-<h3 align="center">Aspiring DevOps Engineer</h3>
 
-- I’m currently learning **DevOps** 🌱
-- Ask me about **Python , Docker , Terraform** 💬
-- How to reach me [Email](mailto:trainwithshubham@gmail.com/) 💌
-- Follow me on [Instagram](https://www.instagram.com/kritikashawww/) ✨
-- Follow me on [Hashnode](https://hashnode.com/@kritikashaw/) 🌐 
+<h1 align="center">I'm Kritika Shaw</h1>
+<h3 align="center">Aspiring Engineer</h3>
+
+- I’m currently learning 🌱
+- 📫 How to reach me:[Email](mailto:shawkritika2@gmail.com/) 💌
 - ⚡⚡⚡ Fact **"Remember,,, Why you started."** ⚡⚡⚡
 
  <h5><font size="+1" face="Tahoma">Social:</font></h5>
 
-<div align="left" gap="20px">
-<a href="https://www.linkedin.com/in/kritikashaw/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a>
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritikashaw/)
+[![medium badge](https://img.shields.io/badge/Hashnode-shivam1410-%230177B5?style=flat&logo=medium)](https://hashnode.com/@kritikashaw/)
+[![Instagram badge](https://img.shields.io/badge/Instagram-@shhi_va_m-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/kritikashawww/)
+
+
 <a href="https://github.com/Kritika257">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
