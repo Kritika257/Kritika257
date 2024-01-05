@@ -12,9 +12,9 @@
 
  <h5><font size="+1" face="Tahoma">Social:</font></h5>
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritikashaw/)
-[![medium badge](https://img.shields.io/badge/Hashnode-shivam1410-%230177B5?style=flat&logo=medium)](https://hashnode.com/@kritikashaw/)
-[![Instagram badge](https://img.shields.io/badge/Instagram-@shhi_va_m-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/kritikashawww/)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-kritikashaw-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritikashaw/)
+[![medium badge](https://img.shields.io/badge/Hashnode-kritikashaw-%230177B5?style=flat&logo=medium)](https://hashnode.com/@kritikashaw/)
+[![Instagram badge](https://img.shields.io/badge/Instagram-@kritikashawww-%23E4415F?style=flat&logo=instagram@logoColor=white)](https://www.instagram.com/kritikashawww/)
 
 
 <a href="https://github.com/Kritika257">
